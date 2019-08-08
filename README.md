@@ -1,2 +1,2 @@
 # Ensamblador_ejercicios
-Ensamblador ejercicios de repaso
+Ensamblador ejercicios de repaso NASM
